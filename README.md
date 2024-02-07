@@ -7,4 +7,4 @@ This repository houses an integrated system designed for managing a fictional pr
 
     PHP/HTML Interface: A web interface built with PHP and HTML, providing a user-friendly way to view and interact with the data stored in the prison database. It enables users to browse inmate records, view specific details, and understand the prison's current operational status.
 
-The system is intended as a comprehensive solution for managing inmate data, simulating a realistic prison environment for educational and development purposes. It combines backend data processing with a frontend interface to create a full-stack application that demonstrates the capabilities of Java and PHP/HTML in a unified project.
+The system is intended as a comprehensive solution for managing inmate data, simulating a realistic prison environment for educational and development purposes. It combines backend data processing with a frontend interface to create a full-stack application that demonstrates the capabilities of Java and PHP/HTML in a unified project. Contact me via email if you have questions.
